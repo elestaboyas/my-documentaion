@@ -35,6 +35,16 @@ git add .
 git commit -m "commit message describing the chages made"
 ```
 
+4. Add remote github repo 
+```bash
+git remote add origin https://github.com/username/repo.git
+```
+
+5. push the files to the repo
+```bash
+git push -u origin main
+```
+
 Branching and Merging 
 Creating new branch is achieved with:
 ```bash
