@@ -270,6 +270,7 @@ INSTALLED_APPS = [
 
 # Setting up postgressql 
 
+logging to postgres and creating database
 ```bash
 psql -u postgres
 
